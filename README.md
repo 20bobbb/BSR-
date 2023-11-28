@@ -29,7 +29,9 @@ Passengers can check available seats, reserve a seat, make payments, and view bo
 Exit:
 
 Safely exit the system when done using the convenient exit option.
+
 Usage Tips
+
 Employee Module:
 
 Add schedules to reflect real-time bus timings.
@@ -38,6 +40,7 @@ Passenger Module:
 
 Carefully choose your route for accurate seat availability.
 Reserve a seat, process payment, and generate a receipt seamlessly.
+
 Important Notes
 Buffer Overflow Prevention:
 Input limits have been set to prevent buffer overflow. Always adhere to the specified character limits.
